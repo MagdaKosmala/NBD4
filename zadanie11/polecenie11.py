@@ -1,5 +1,4 @@
 import string
-
 import riak
 
 client = riak.RiakClient(pb_port=8087, protocol='pbc')
