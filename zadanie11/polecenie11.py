@@ -19,7 +19,7 @@ data = personDoc.data
 print("Pobrany document z bazy: " + str(data))
 
 data["full_name"] = 'John Patrick Doe Jr'
-data["mobile"] = '99887766'
+data["mobile"] = '11223344'
 personDoc.data = data
 personDoc.store()
 
