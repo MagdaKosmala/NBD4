@@ -1,0 +1,5 @@
+Nowy dokument dodany do bazy z kluczem: doe@email.com
+Dane: {'full_name': 'John Doe', 'email': 'doe@email.com', 'country': 'USA'}
+Pobrany document z bazy: {'full_name': 'John Doe', 'email': 'doe@email.com', 'country': 'USA'}
+Zmodyfikowany pobrany document z bazy:{'full_name': 'John Patrick Doe Jr', 'email': 'doe@email.com', 'country': 'USA', 'mobile': '99887766'}
+Proba pobrania usunietego documentu z bazy: None

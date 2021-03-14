@@ -1,1 +1,1 @@
-# NBD4
+# NBD4 - bazy kv (riak) - ćwiczenia
